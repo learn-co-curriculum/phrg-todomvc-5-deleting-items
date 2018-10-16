@@ -14,6 +14,9 @@ This video is meant to be a review of the second set of topics in Ruby on Rails.
 
 There will be more vidoes building out the rest of TODOMVC.
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-todomvc-5-deleting-items/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-todomvc-5-deleting-items/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+ 
 ## Code
 
 - [Start Code](https://github.com/aviflombaum/todo-mvc-lv/tree/lecture-4)
